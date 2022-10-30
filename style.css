@@ -9,15 +9,15 @@ td {
 }
 
 div {
-    background-color: rgb(37, 153, 37);
-    border: 10px solid rgb(255, 234, 246);
+    background-color: rgb(149, 18, 205);
+    border: 10px solid rgb(185, 23, 115);
     text-align: center;
     font-size: 18px;
     color: wheat;
 }
 h1 {
     text-align: center;
-    background-color: olivedrab;
+    background-color: orangered;
     
 }
 .monthlyCost {
